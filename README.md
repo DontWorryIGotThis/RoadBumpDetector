@@ -1,3 +1,3 @@
-# PeoPolApp
+# RoadBumpDetectorApp
 
-Agenda: Create a PotHole Registry.
+Agenda: Create a RoadBumpDetector Registry.
